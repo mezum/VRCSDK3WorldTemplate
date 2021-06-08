@@ -1,0 +1,44 @@
+# Unity generated
+/[Bb]uild/
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Oo]bj/
+/[Tt]emp/
+/UserSettings/
+/[Mm]emoryCaptures/
+!/[Aa]ssets/**/*.meta
+
+# VRChat SDK
+/Assets/Udon/
+/Assets/Udon.meta
+/Assets/VRChat Examples/
+/Assets/VRChat Examples.meta
+/Assets/VRCSDK/
+/Assets/VRCSDK.meta
+/Assets/SerializedUdonPrograms/
+/Assets/SerializedUdonPrograms.meta
+/Packages/com.vrchat.vrcsdk3/
+
+# VRWorld Toolkit
+/Assets/VRWorldToolkit/
+/Assets/VRWorldToolkit.meta
+
+# CyanEmu
+/Assets/CyanEmu/
+/Assets/CyanEmu.meta
+
+# UdonSharp
+/Assets/Gizmos/UdonSharp/
+/Assets/Gizmos/UdonSharp.meta
+/Assets/UdonSharp/
+/Assets/UdonSharp.meta
+
+# Visual studio (code)
+*.csproj
+*.sln
+*.suo
+*.unityproj
+/.vscode
+
+# Blender
+*.blend[1-9]*
